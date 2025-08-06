@@ -4,7 +4,7 @@
 
 <br>
 
-## Feeding Frenzy 2 Deluxe 
+## I. Feeding Frenzy 2 Deluxe 
 
 ### (Feeding Frenzy 2: Shipwreck Showdown Deluxe)
 
@@ -37,7 +37,7 @@
 
 <br>
 
-### You can download the savegame here: <br> [Feeding-Frenzy-2-Deluxe_Savegame.reg](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/Feeding-Frenzy-2-Deluxe/Feeding-Frenzy-2-Deluxe_Savegame.reg)
+### You can download the savegame from here: <br> [Feeding-Frenzy-2-Deluxe_Savegame.reg](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/Feeding-Frenzy-2-Deluxe/Feeding-Frenzy-2-Deluxe_Savegame.reg)
 
 <br>
 
