@@ -37,7 +37,7 @@
 
 <br>
 
-### You can download the savegame from here: <br> [Feeding-Frenzy-2-Deluxe_Savegame.reg](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/Feeding-Frenzy-2-Deluxe/Feeding-Frenzy-2-Deluxe_Savegame.reg)
+### You can download the savegame from here: <br> [Feeding-Frenzy-2-Deluxe_Savegame.reg](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/Feeding-Frenzy-2-Deluxe/Feeding-Frenzy-2-Deluxe_Savegame.reg) *(right-click and choose "Save link as...")*
 
 <br>
 
