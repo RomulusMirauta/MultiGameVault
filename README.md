@@ -68,12 +68,18 @@
 
 <br>
 
-### You can download the scripts from here: <br> - [!ForceCloseLOL.cmd](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/Feeding-Frenzy-2-Deluxe/!ForceCloseLOL.cmd) *(right-click and choose "Save link as...")* <br> - [!ForceCloseAndRestartLOL.cmd](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/Feeding-Frenzy-2-Deluxe/!ForceCloseAndRestartLOL.cmd) *(right-click and choose "Save link as...")*
+### You can download the scripts from here: <br> - [!ForceCloseLOL.cmd](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/League-of-Legends/!ForceCloseLOL.cmd) *(right-click and choose "Save link as...")* <br> - [!ForceCloseAndRestartLOL.cmd](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/League-of-Legends/!ForceCloseAndRestartLOL.cmd) *(right-click and choose "Save link as...")*
 
 <br>
 
 ### How to use (when the game becomes unresponsive):
-1. Press `Windows key` + `D`
-2. Press `Shift` + `1`
+1. Press the key combination: `Windows Key` + `D`
+2. Press the key combination: `Shift` + `1`
 3. Press `Enter`
 4. *If prompted, choose the option "Yes"*
+
+<br>
+
+> [!IMPORTANT]
+> - The above-mentioned scripts will only work with the **LIVE** version of the game.
+> - For the **PBE** *(Public Beta Environment)* script versions, please access these links: <br> - [!ForceCloseLOL-PBE.cmd](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/League-of-Legends/!ForceCloseLOL-PBE.cmd) *(right-click and choose "Save link as...")* <br> - [!ForceCloseAndRestartLOL-PBE.cmd](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/League-of-Legends/!ForceCloseAndRestartLOL-PBE.cmd) *(right-click and choose "Save link as...")*
