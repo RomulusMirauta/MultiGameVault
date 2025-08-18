@@ -4,7 +4,13 @@
 
 <br>
 
-## I. Feeding Frenzy 2 Deluxe 
+## Table of Contents
+I. [Feeding Frenzy 2 Deluxe](https://github.com/RomulusMirauta/MultiGameVault#i-feeding-frenzy-2-deluxe) <br>
+II. [League of Legends](https://github.com/RomulusMirauta/MultiGameVault#ii-league-of-legends)
+
+<br>
+
+## I. Feeding Frenzy 2 Deluxe
 
 ### (Feeding Frenzy 2: Shipwreck Showdown Deluxe)
 
@@ -64,7 +70,7 @@
 
 </h6>
 
-### **Purpose:** After the Vanguard update, the game becomes unresponsive more often than before. <br> These scripts forcefully close/restart the game (and all of its adjacent processes).
+### **Purpose(s):** <br> - After the "Riot Vanguard" update *(custom anti-cheat security software)*, the game becomes unresponsive more often (affecting the OS as well). <br> - These scripts forcefully close/restart the game (and all of its adjacent processes) in a timely manner.
 
 <br>
 
@@ -72,7 +78,7 @@
 
 <br>
 
-### How to use (when the game becomes unresponsive):
+### How to use:
 1. Press the key combination: `Windows Key` + `D`
 2. Press the key combination: `Shift` + `1`
 3. Press `Enter`
