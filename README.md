@@ -45,3 +45,35 @@
 1. Double-click the REG file and choose the option "Yes"
 2. Start the game as usual
 3. Check if the user named "The Intruder" has appeared and that it has been automatically selected
+
+<br>
+
+## II. League of Legends
+
+<br>
+
+<h6  align="center">
+
+<a href="https://www.leagueoflegends.com/">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/refs/heads/main/img/LOL_header.webp"
+    alt="LOL_header" />
+</a>
+
+<br><br>
+
+</h6>
+
+### **Purpose:** After the Vanguard update, the game becomes unresponsive more often than before. <br> These scripts forcefully close/restart the game (and all of its adjacent processes).
+
+<br>
+
+### You can download the scripts from here: <br> - [!ForceCloseLOL.cmd](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/Feeding-Frenzy-2-Deluxe/!ForceCloseLOL.cmd) *(right-click and choose "Save link as...")* <br> - [!ForceCloseAndRestartLOL.cmd](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/Feeding-Frenzy-2-Deluxe/!ForceCloseAndRestartLOL.cmd) *(right-click and choose "Save link as...")*
+
+<br>
+
+### How to use (when the game becomes unresponsive):
+1. Press `Windows key` + `D`
+2. Press `Shift` + `1`
+3. Press `Enter`
+4. *If prompted, choose the option "Yes"*
