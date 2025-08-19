@@ -52,7 +52,7 @@ II. [League of Legends](https://github.com/RomulusMirauta/MultiGameVault#ii-leag
 2. Start the game as usual
 3. Check if the user named "The Intruder" has appeared and that it has been automatically selected
 
-<br>
+<br><br>
 
 ## II. League of Legends
 
@@ -70,7 +70,7 @@ II. [League of Legends](https://github.com/RomulusMirauta/MultiGameVault#ii-leag
 
 </h6>
 
-### **Purpose(s):** <br> - After the "Riot Vanguard" update *(custom anti-cheat security software)*, the game becomes unresponsive more often (affecting the OS as well). <br> - These scripts forcefully close/restart the game (and all of its adjacent processes) in a timely manner.
+### **Purpose(s):** <br> - After the **Riot Vanguard** update *(custom anti-cheat security software)*, the game becomes unresponsive more often (affecting the OS as well). <br> - These scripts forcefully close/restart the game (and all of its adjacent processes) in a timely manner.
 
 <br>
 
@@ -87,5 +87,5 @@ II. [League of Legends](https://github.com/RomulusMirauta/MultiGameVault#ii-leag
 <br>
 
 > [!IMPORTANT]
-> - The above-mentioned scripts will only work with the **LIVE** version of the game.
-> - For the **PBE** *(Public Beta Environment)* script versions, please access these links: <br> - [!ForceCloseLOL-PBE.cmd](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/League-of-Legends/!ForceCloseLOL-PBE.cmd) *(right-click and choose "Save link as...")* <br> - [!ForceCloseAndRestartLOL-PBE.cmd](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/League-of-Legends/!ForceCloseAndRestartLOL-PBE.cmd) *(right-click and choose "Save link as...")*
+> - The 'ForceCloseAndRestart' script will only work with the **LIVE** version of the game.
+> - For the **PBE** *(Public Beta Environment)* script version, please access this link: <br> [!ForceCloseAndRestartLOL-PBE.cmd](https://raw.githubusercontent.com/RomulusMirauta/MultiGameVault/main/League-of-Legends/!ForceCloseAndRestartLOL-PBE.cmd) *(right-click and choose "Save link as...")*
