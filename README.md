@@ -79,10 +79,11 @@ II. [League of Legends](https://github.com/RomulusMirauta/MultiGameVault#ii-leag
 <br>
 
 ### How to use:
-1. Press the key combination: `Windows Key` + `D`
-2. Press the key combination: `Shift` + `1`
-3. Press `Enter`
-4. *If prompted, choose the option "Yes"*
+1. Press the key combination: `Alt` + `Tab`
+2. Press the key combination: `Windows Key` + `D`
+3. Press the key combination: `Shift` + `1`
+4. Press `Enter`
+5. *If prompted, press `R`*
 
 <br>
 
